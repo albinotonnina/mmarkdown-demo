@@ -1,0 +1,14 @@
+{
+  "name": "mmarkdown-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "make-readme": "mmarkdown"
+  },
+  "author": "Albino Tonnina <albinotonnina@gmail.com> (http://www.albinotonnina.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "mmarkdown": "^0.1.2"
+  }
+}
