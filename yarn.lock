@@ -138,9 +138,9 @@ mimic-fn@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-1.2.0.tgz#820c86a39334640e99516928bd03fca88057d022"
 
-mmarkdown@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/mmarkdown/-/mmarkdown-0.1.2.tgz#f587b440a3aa6640c7490f35bd52bd11c38d4a71"
+mmarkdown@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/mmarkdown/-/mmarkdown-1.0.0.tgz#f75481a7a954b60830e1016ca36a0d92857c6b30"
   dependencies:
     fs-extra "^5.0.0"
     path-extra "^4.2.1"

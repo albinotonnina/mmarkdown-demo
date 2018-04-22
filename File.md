@@ -66,7 +66,6 @@ return myFinalString
 ### output:
 
 ### 1 async
-
 ### 3 async
-
 ### 5 async
+
