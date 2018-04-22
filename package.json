@@ -6,9 +6,11 @@
   "scripts": {
     "make-readme": "mmarkdown",
     "mmarkdown-help": "mmarkdown --help",
-    "mmarkdown-wconfig": "mmarkdown --src ./custom/File.md --out ./File.md --scripts ./custom/File.js --backup --backupPath ./custom/backupFile/"
+    "mmarkdown-wconfig":
+      "mmarkdown --src ./custom/File.md --out ./File.md --scripts ./custom/File.js --backup --backupPath ./custom/backupFile/"
   },
-  "author": "Albino Tonnina <albinotonnina@gmail.com> (http://www.albinotonnina.com)",
+  "author":
+    "Albino Tonnina <albinotonnina@gmail.com> (http://www.albinotonnina.com)",
   "license": "ISC",
   "devDependencies": {
     "mmarkdown": "^1.0.0"
@@ -18,6 +20,6 @@
     "out": "./Readme.md",
     "scripts": "./Readme/Readme.js",
     "backup": "true",
-    "backupPath": "./Readme/backup"
+    "backupPath": "./Readme/backup/"
   }
 }
